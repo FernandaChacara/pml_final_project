@@ -27,9 +27,9 @@ The main dataset will be based on official statistics from the Instituto da Vinh
 
 **Course:** Practical Machine Learning  
 **Team members:** 
-Nº 27119 | Andrea Dombe
-Nº 27916 | Dandara França
-Nº 26298 | Fernanda Chácara
+- Nº 27119 | Andrea Dombe
+- Nº 27916 | Dandara França
+- Nº 26298 | Fernanda Chácara
 
 **Institution:** Instituto Superior de Agronomia — Lisbon, Portugal
 
