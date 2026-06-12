@@ -3,6 +3,9 @@
 ## Project Title
 Predicting Annual Wine Production by Viticultural Region in Portugal
 
+## Project Category
+Tabular data / regression
+
 ## Team Members
 Nº 27119 | Andrea Dombe  
 Nº 27916 | Dandara França  
